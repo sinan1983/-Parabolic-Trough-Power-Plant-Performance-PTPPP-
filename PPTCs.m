@@ -2422,5 +2422,5 @@ function Help_pushbutton_Callback(hObject, eventdata, handles)
 % hObject    handle to Help_pushbutton (see GCBO)
 % eventdata  reserved - to be defined in a future version of MATLAB
 % handles    structure with handles and user data (see GUIDATA)
-uiopen('Performance Assessment of Stand_Help.pdf',1)
+uiopen('Help.pdf',1)
 guidata(hObject, handles);
