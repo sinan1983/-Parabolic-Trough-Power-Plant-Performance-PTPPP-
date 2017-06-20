@@ -1,2 +1,0 @@
-# Advances in Engineering Software
-
